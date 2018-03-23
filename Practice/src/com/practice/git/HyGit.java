@@ -7,6 +7,9 @@ public class HyGit {
 		for (int i = 0; i <4; i++) {
 			System.out.println("Hello...hy");
 		}
+			for (int i = 0; i <4; i++) {
+			System.out.println("Hello...Supreet sir");
+		}
 	
 	}
 
